@@ -1,2 +1,1 @@
-abc
-this is second program
+my name is ali
