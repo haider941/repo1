@@ -1,3 +1,30 @@
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+heloo world
+=======
  
 how are u
 
@@ -8,3 +35,4 @@ hi
 
 hello world
 
+>>>>>>> newbranch
