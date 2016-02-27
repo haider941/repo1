@@ -2,6 +2,10 @@ my name is ali
 
 
 
+<<<<<<< HEAD
 
 
 soem adhn
+=======
+i modified this file
+>>>>>>> 6c6547b79b0fa9df0c36858b2a38811400716dcc
